@@ -12,9 +12,9 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://twitter.com/jekyllrb
+    url: https://www.linkedin.com/pub/akash-sharma/27/753/74b
   - title: google-plus
-    url: http://twitter.com/jekyllrb
+    url: https://plus.google.com/u/0/+AkashSharma1991/
 #  - title: facebook
 #    url:
   - title: stack-overflow
@@ -22,7 +22,7 @@ social:
 #  - title: bitbucket 
 #    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Akash91
 
 # Postal address (add as many lines as necessary)
 address:
