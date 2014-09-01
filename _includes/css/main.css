@@ -443,3 +443,18 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+.image_circle {
+    text-align: center;
+}
+.image_circle > span {
+    border-radius: 150px;
+    display: inline-block;
+    height: 160px;
+    overflow: hidden;
+    width: 256px;
+}
+.skills.ak_skills {
+    display: inline-block;
+    font-size: 21px;
+    width: 460px;
+}
