@@ -26,8 +26,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: akash1991@gmail
-  - line: +918510804156
+  - line: akash1991 at gmail dot com
+# - line: +918510804156
 
 # Build settings
 markdown: kramdown
