@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2013-03-01
 img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+alt: Global Marketplace for Shoes
+project-date: March 2013
+client: Austin Based Startup
+category: Implemented interactive portfolio using latest HTML5 features.
+description: An online marketplace that allows to buy/sell/trade stellar footwear with other fashion forward shoe fanatics. The application displays a rare collection, of unique, stylish and well-made shoes, where people can view, add comments or buy the accessories.
 
 ---
