@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2013-01-05
+date: 2014-12-01
 img: cabin.png
 alt: Digital Business Card
 project-date: January 2013
-client: 
-category: Built custom email templates and webpages for desktop and mobile site.
-description: A startup based in Austin looking forward to build a digital business card for the modern professional. Constantly innovating the art of personal outreach and contact exchange.
+client: A startup based in Austin looking forward to build a digital business card for the modern professional.
+category: 
+description: Built custom email templates and webpages for desktop and mobile site.
 
 ---

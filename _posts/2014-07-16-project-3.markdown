@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-04-01
+date: 2014-10-01
 img: game.png
 alt: Leading provider of cloud-based eCommerce order management services
 project-date: April 2014
-client: Leading provider of cloud-based eCommerce order management services.
-category: Front-End Development
-description: The world’s leading provider of cloud-based, eCommerce order management solutions. More than a decade old platform  which allows branded manufacturers and multi-channel retailers to seamlessly leverage the available inventory of every retail storefront and distribution center when fulfilling online orders.
+client: The world’s leading provider of cloud-based, eCommerce order management solutions.
+category: 
+description: Front-End Development
 
 ---

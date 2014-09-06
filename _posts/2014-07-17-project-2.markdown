@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2013-03-01
+date: 2014-11-01
 img: cake.png
 alt: Global Marketplace for Shoes
 project-date: March 2013
-client: Austin Based Startup
-category: Implemented interactive portfolio using latest HTML5 features.
-description: An online marketplace that allows to buy/sell/trade stellar footwear with other fashion forward shoe fanatics. The application displays a rare collection, of unique, stylish and well-made shoes, where people can view, add comments or buy the accessories.
+client: An online marketplace that allows to buy/sell/trade stellar footwear with other fashion forward shoe fanatics.
+category: 
+description: Implemented interactive portfolio using latest HTML5 features.
 
 ---

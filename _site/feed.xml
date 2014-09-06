@@ -5,9 +5,53 @@
     <description>Working on my new website and blog. Links to be added here</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 06 Sep 2014 00:21:39 +0530</pubDate>
-    <lastBuildDate>Sat, 06 Sep 2014 00:21:39 +0530</lastBuildDate>
+    <pubDate>Sat, 06 Sep 2014 11:22:53 +0530</pubDate>
+    <lastBuildDate>Sat, 06 Sep 2014 11:22:53 +0530</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Project 1</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Dec 2014 00:00:00 +0530</pubDate>
+        <link>/2014/12/01/project-1/</link>
+        <guid isPermaLink="true">/2014/12/01/project-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 2</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Nov 2014 00:00:00 +0530</pubDate>
+        <link>/2014/11/01/project-2/</link>
+        <guid isPermaLink="true">/2014/11/01/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 3</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Oct 2014 00:00:00 +0530</pubDate>
+        <link>/2014/10/01/project-3/</link>
+        <guid isPermaLink="true">/2014/10/01/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project 4</title>
+        <description>
+</description>
+        <pubDate>Mon, 01 Sep 2014 00:00:00 +0530</pubDate>
+        <link>/2014/09/01/project-4/</link>
+        <guid isPermaLink="true">/2014/09/01/project-4/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Project 6</title>
@@ -32,58 +76,6 @@
         
         
         <category>web development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 4</title>
-        <description>
-</description>
-        <pubDate>Thu, 01 May 2014 00:00:00 +0530</pubDate>
-        <link>/developed%20interface%20for%20single%20page%20app%20design,%20extensive%20use%20of%20css3%20animations%20and%20writing%20fallbacks%20for%20ie8%20and%20ie9./2014/05/01/project-4/</link>
-        <guid isPermaLink="true">/developed%20interface%20for%20single%20page%20app%20design,%20extensive%20use%20of%20css3%20animations%20and%20writing%20fallbacks%20for%20ie8%20and%20ie9./2014/05/01/project-4/</guid>
-        
-        
-        <category>developed interface for single page app design, extensive use of css3 animations and writing fallbacks for ie8 and ie9.</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 3</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Apr 2014 00:00:00 +0530</pubDate>
-        <link>/front-end%20development/2014/04/01/project-3/</link>
-        <guid isPermaLink="true">/front-end%20development/2014/04/01/project-3/</guid>
-        
-        
-        <category>front-end development</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 2</title>
-        <description>
-</description>
-        <pubDate>Fri, 01 Mar 2013 00:00:00 +0530</pubDate>
-        <link>/implemented%20interactive%20portfolio%20using%20latest%20html5%20features./2013/03/01/project-2/</link>
-        <guid isPermaLink="true">/implemented%20interactive%20portfolio%20using%20latest%20html5%20features./2013/03/01/project-2/</guid>
-        
-        
-        <category>implemented interactive portfolio using latest html5 features.</category>
-        
-      </item>
-    
-      <item>
-        <title>Project 1</title>
-        <description>
-</description>
-        <pubDate>Sat, 05 Jan 2013 00:00:00 +0530</pubDate>
-        <link>/built%20custom%20email%20templates%20and%20webpages%20for%20desktop%20and%20mobile%20site./2013/01/05/project-1/</link>
-        <guid isPermaLink="true">/built%20custom%20email%20templates%20and%20webpages%20for%20desktop%20and%20mobile%20site./2013/01/05/project-1/</guid>
-        
-        
-        <category>built custom email templates and webpages for desktop and mobile site.</category>
         
       </item>
     
