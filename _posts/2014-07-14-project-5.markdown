@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 5
-title: Project 5
-date: 2014-07-14
+title: Project 2
+date: 2014-05-01
 img: safe.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: Josh Technology Group (formerly known as Joshworkz) that works for exciting and well funded startups in US. The company aims to launch its own product in Indian market soon.
 category: Web Development
-description: 
+description: Developed full reponsive website for an online car portal.
 
 ---

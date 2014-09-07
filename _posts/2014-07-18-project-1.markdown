@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-title: Project 1
-date: 2014-12-01
+title: Project 6
+date: 2014-01-01
 img: cabin.png
 alt: Digital Business Card
 project-date: January 2013

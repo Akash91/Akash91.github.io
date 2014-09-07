@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-title: Project 4
-date: 2014-09-01
+title: Project 3
+date: 2014-04-01
 img: circus.png
 alt: Car Insurance
 project-date: June 2014
-client: An Austin based startup that aims to be a "Kayak" in car insurance industry. The application reports real-time quotes from a variety of brands which a user can browse anonymously.
+client: An Austin based startup that aims to be a "Kayak" for car insurance industry. The application reports real-time quotes from a variety of brands which a user can browse anonymously.
 category: 
 description: Developed user interface for a single page app with extensive use of CSS3 animations and fallbacks for IE8 and IE9.
 
