@@ -8,6 +8,6 @@ alt: image-alt
 project-date: July 2014
 client: A San Francisco based startup that provides a SaaS platform to connect entrepreneurs and employees with relevant subject-matter experts.
 category: 
-description: Front End Development (currently)
+description: Developed theming support with mixins in SCSS
 
 ---
