@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -207,9 +206,9 @@
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Title of section 1</h2>
-		<p> Content 1 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Jan 14</span> </div>
+		<h2>Senior UI Developer at Josh Technology Group</h2>
+		<p>Working as a Front-End Developer and handling core project responsibilities like planning, estimation and delivery</p>
+		<span class="cd-date">May 2014</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
@@ -219,9 +218,9 @@
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Title of section 2</h2>
-		<p> Content 2 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Jan 18</span> </div>
+		<h2>UI Developer at Josh Technology Group</h2>
+		<p>Gathering requirements and handling technical responsibility of developing a feature and testing it across various devices and platforms</p>
+		<span class="cd-date">July 2013</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
@@ -231,9 +230,9 @@
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Title of section 3</h2>
-		<p> Content 3 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Jan 24</span> </div>
+		<h2>Graduated from VIT Vellore</h2>
+		<p>Completed B.Tech in Computer Science</p>
+		<span class="cd-date">May 2013</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
@@ -243,36 +242,46 @@
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Title of section 4</h2>
-		<p> Content 4 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Feb 14</span> </div>
+		<h2>Intern at Josh Technology Group</h2>
+		<p>Learning project processes and focussing on feature development</p>
+		<span class="cd-date">Dec 2012</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
 
 	<div class="cd-timeline-block">
-	<div class="cd-timeline-img cd-picture"> <img src="cd-icon-location.svg" alt="Location"> </div>
+	<div class="cd-timeline-img cd-picture"> </div>
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Title of section 5</h2>
-		<p> Content 5 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Feb 18</span> </div>
+		<h2>SAP Trainee at ONGC, New Delhi</h2>
+		<p>Worked on Entry Modules, Report Generation and Module Pool Programming</p>
+		<span class="cd-date">May 2012</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
 
 	<div class="cd-timeline-block">
-	<div class="cd-timeline-img cd-movie">  </div>
+	<div class="cd-timeline-img cd-location">  </div>
 	<!-- cd-timeline-img -->
 	 
 	<div class="cd-timeline-content">
-		<h2>Final Section</h2>
-		<p> Content 6 </p>
-		<a href="#0" class="cd-read-more">Read more</a> <span class="cd-date">Feb 26</span> </div>
+		<h2>Intern at Sanfoundry</h2>
+		<p>Documented process management techniques in operating system (UNIX)</p>
+		<span class="cd-date">May 2011</span> </div>
 	<!-- cd-timeline-content -->
 	</div>
 	<!-- cd-timeline-block -->
+	<div class="cd-timeline-block">
+	<div class="cd-timeline-img cd-picture"> </div>
+	<!-- cd-timeline-img -->
+	 
+	<div class="cd-timeline-content">
+		<h2>Started B.Tech at VIT Vellore</h2>
+		<p></p>
+		<span class="cd-date">June 2009</span> </div>
+	<!-- cd-timeline-content -->
+	</div>
 </section>
         <!-- Footer -->
     <footer class="text-center">
@@ -581,17 +590,17 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="/js/freelancer.js"></script>
-
+    <script src="/js/modernizr-latest.js"></script>
     <script>
     jQuery(document).ready(function($){
         var $timeline_block = $('.cd-timeline-block');
      
     //hide timeline blocks which are outside the viewport
-    $timeline_block.each(function(){
-        if($(this).offset().top > $(window).scrollTop()+$(window).height()*0.75) {
-            $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
-        }
-    });
+        $timeline_block.each(function(){
+            if($(this).offset().top > $(window).scrollTop()+$(window).height()*0.75) {
+                $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
+            }
+        });
      
     //on scolling, show/animate timeline blocks when enter the viewport
         $(window).on('scroll', function(){
@@ -603,7 +612,6 @@
         });
     });
     </script>
-
 
 
     </body>

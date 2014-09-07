@@ -564,18 +564,18 @@ footer .footer-below {
   animation: cd-bounce-1 0.6s;
 }
 }
- @-webkit-keyframes 
-cd-bounce-1 {  0% {
- opacity: 0;
- -webkit-transform: scale(0.5);
-}
- 60% {
- opacity: 1;
- -webkit-transform: scale(1.2);
-}
- 100% {
- -webkit-transform: scale(1);
-}
+ @-webkit-keyframes cd-bounce-1 {  
+ 	0% {
+	 	opacity: 0;
+	 	-webkit-transform: scale(0.5);
+	}
+ 	60% {
+		opacity: 1;
+		-webkit-transform: scale(1.2);
+	}
+	100% {
+		-webkit-transform: scale(1);
+	}
 }
 @-moz-keyframes 
 cd-bounce-1 {  0% {
@@ -682,12 +682,12 @@ cd-bounce-1 {  0% {
  
 .cd-timeline-content h2 {
   font-size: 20px;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
  
 .cd-timeline-content p {
   font-size: 16px;
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
  
 .cd-timeline-content .cd-read-more,
@@ -718,9 +718,9 @@ cd-bounce-1 {  0% {
   position: absolute;
   width: 100%;
   left: 122%;
-  top: 6px;
+  top: 0px;
   font-size: 16px;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
  
 .cd-timeline-block:nth-child(even) .cd-timeline-content { float: right; }
