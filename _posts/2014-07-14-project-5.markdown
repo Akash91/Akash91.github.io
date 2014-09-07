@@ -3,7 +3,7 @@ layout: default
 modal-id: 5
 title: Project 2
 date: 2014-05-01
-img: safe.png
+img: cars.png
 alt: image-alt
 project-date: November 2013
 client: Josh Technology Group (formerly known as Joshworkz) that works for exciting and well funded startups in US. The company aims to launch its own product in the Indian market soon.

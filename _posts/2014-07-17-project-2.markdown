@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 title: Project 5
 date: 2014-02-01
-img: cake.png
+img: boots.png
 alt: Global Marketplace for Shoes
 project-date: March 2013
 client: An online marketplace that allows users to buy/sell/trade stellar footwear with other fashion forward shoe fanatics.

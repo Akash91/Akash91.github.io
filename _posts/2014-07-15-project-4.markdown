@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 title: Project 3
 date: 2014-04-01
-img: circus.png
+img: insurancez.png
 alt: Car Insurance
 project-date: July 2013
 client: An Austin based startup that aims to be a "Kayak" for car insurance industry. The application reports real-time quotes from a variety of brands which a user can browse anonymously.

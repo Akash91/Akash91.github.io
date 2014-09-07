@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: Project 4
 date: 2014-03-01
-img: game.png
+img: commerce.png
 alt: Leading provider of cloud-based eCommerce order management services
 project-date: April 2013
 client: The world’s leading provider of cloud-based, eCommerce order management solutions.
