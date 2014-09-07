@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 2
+title: Project 2
 date: 2014-11-01
 img: cake.png
 alt: Global Marketplace for Shoes
 project-date: March 2013
-client: An online marketplace that allows to buy/sell/trade stellar footwear with other fashion forward shoe fanatics.
+client: An online marketplace that allows users to buy/sell/trade stellar footwear with other fashion forward shoe fanatics.
 category: 
 description: Implemented interactive portfolio using latest HTML5 features.
 
