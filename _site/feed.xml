@@ -5,8 +5,8 @@
     <description>Working on my new website and blog. Links to be added here</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Sep 2014 11:54:36 +0530</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2014 11:54:36 +0530</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2014 12:18:05 +0530</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2014 12:18:05 +0530</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -14,11 +14,9 @@
         <description>
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 +0530</pubDate>
-        <link>/front%20end%20development%20(currently)/2014/06/01/project-6/</link>
-        <guid isPermaLink="true">/front%20end%20development%20(currently)/2014/06/01/project-6/</guid>
+        <link>/2014/06/01/project-6/</link>
+        <guid isPermaLink="true">/2014/06/01/project-6/</guid>
         
-        
-        <category>front end development (currently)</category>
         
       </item>
     

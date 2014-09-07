@@ -6,8 +6,8 @@ date: 2014-05-01
 img: safe.png
 alt: image-alt
 project-date: November 2013
-client: Josh Technology Group (formerly known as Joshworkz) that works for exciting and well funded startups in US. The company aims to launch its own product in Indian market soon.
+client: Josh Technology Group (formerly known as Joshworkz) that works for exciting and well funded startups in US. The company aims to launch its own product in the Indian market soon.
 category: Web Development
-description: Developed full reponsive website for an online car portal.
+description: Designed and developed fully reponsive website for an online car portal.
 
 ---

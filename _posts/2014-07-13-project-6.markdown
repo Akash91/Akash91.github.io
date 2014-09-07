@@ -6,8 +6,8 @@ date: 2014-06-01
 img: submarine.png
 alt: image-alt
 project-date: July 2014
-client: A San Francisco based startup that provides a SaaS platform to connect entrepreneurs and employees with relevant subject-matter experts and mentors anywhere in your organization.
-category: Front End Development (currently)
-description: 
+client: A San Francisco based startup that provides a SaaS platform to connect entrepreneurs and employees with relevant subject-matter experts.
+category: 
+description: Front End Development (currently)
 
 ---
