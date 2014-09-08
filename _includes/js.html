@@ -26,10 +26,15 @@
                 $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
             }
         });
-
-        $(document).keypress(function(e){
-            if (e.keyCode === 8) {
-                $('.portfolio-modal').modal('hide')
+        $(document).on('click', function(){
+            setTimeout(function(){
+                $('.modal-open').focus();
+            },500);
+        });
+        $(document).keydown(function(e){
+            if (e.keyCode === 8 || e.keyCode === 46) {
+                $('.portfolio-modal').modal('hide');
+                e.preventDefault();
             }
         });
     //on scolling, show/animate timeline blocks when enter the viewport
