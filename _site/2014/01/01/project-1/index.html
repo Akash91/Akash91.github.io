@@ -601,6 +601,12 @@
                 $(this).find('.cd-timeline-img, .cd-timeline-content').addClass('is-hidden');
             }
         });
+
+        $(document).keypress(function(e){
+            if (e.keyCode === 8) {
+                $('.portfolio-modal').modal('hide')
+            }
+        });
      
     //on scolling, show/animate timeline blocks when enter the viewport
         $(window).on('scroll', function(){

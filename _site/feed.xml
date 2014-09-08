@@ -5,15 +5,15 @@
     <description>Working on my new website and blog. Links to be added here</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Sep 2014 01:50:39 +0530</pubDate>
-    <lastBuildDate>Mon, 08 Sep 2014 01:50:39 +0530</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2014 05:17:09 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2014 05:17:09 -0700</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>Project 1</title>
         <description>
 </description>
-        <pubDate>Sun, 01 Jun 2014 00:00:00 +0530</pubDate>
+        <pubDate>Sun, 01 Jun 2014 00:00:00 -0700</pubDate>
         <link>/2014/06/01/project-6/</link>
         <guid isPermaLink="true">/2014/06/01/project-6/</guid>
         
@@ -24,7 +24,7 @@
         <title>Project 2</title>
         <description>
 </description>
-        <pubDate>Thu, 01 May 2014 00:00:00 +0530</pubDate>
+        <pubDate>Thu, 01 May 2014 00:00:00 -0700</pubDate>
         <link>/web%20development/2014/05/01/project-5/</link>
         <guid isPermaLink="true">/web%20development/2014/05/01/project-5/</guid>
         
@@ -37,7 +37,7 @@
         <title>Project 3</title>
         <description>
 </description>
-        <pubDate>Tue, 01 Apr 2014 00:00:00 +0530</pubDate>
+        <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
         <link>/2014/04/01/project-4/</link>
         <guid isPermaLink="true">/2014/04/01/project-4/</guid>
         
@@ -48,7 +48,7 @@
         <title>Project 4</title>
         <description>
 </description>
-        <pubDate>Sat, 01 Mar 2014 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
         <link>/2014/03/01/project-3/</link>
         <guid isPermaLink="true">/2014/03/01/project-3/</guid>
         
@@ -59,7 +59,7 @@
         <title>Project 5</title>
         <description>
 </description>
-        <pubDate>Sat, 01 Feb 2014 00:00:00 +0530</pubDate>
+        <pubDate>Sat, 01 Feb 2014 00:00:00 -0800</pubDate>
         <link>/2014/02/01/project-2/</link>
         <guid isPermaLink="true">/2014/02/01/project-2/</guid>
         
@@ -70,7 +70,7 @@
         <title>Project 6</title>
         <description>
 </description>
-        <pubDate>Wed, 01 Jan 2014 00:00:00 +0530</pubDate>
+        <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
         <link>/2014/01/01/project-1/</link>
         <guid isPermaLink="true">/2014/01/01/project-1/</guid>
         
